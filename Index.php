@@ -60,7 +60,7 @@ Licensed under GNU GPL
 					<a href='http://pikemere.co.uk/blog/flot-how-to-create-pie-charts/'>Pikemere's Interactive Pie Chart</a></br></td>
 			</table>
 			</br>
-			The code for this website can be found on <a href='https://github.com/n00bin4t0r/GuardianAnalyser'>GitHub</a>
+			The code for this website can be found on <a href='https://github.com/BillyLjm/GuardianAnalyser'>GitHub</a>
 		</div>
 	</div>
 	
